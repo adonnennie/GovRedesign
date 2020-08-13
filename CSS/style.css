@@ -1,0 +1,57 @@
+header {
+    margin-left: 20px;
+}
+h1 {
+    font-family: 'urw-din',sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    text-decoration: underline #2FB9AE;
+}
+h3 {
+    font-family: 'urw-din',sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+h2 {
+    font-family: urw-din,sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+body {
+    font-family: 'urw-din',sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.orange {
+    color: #CC8214;
+    font-family: 'urw-din',sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+.heroContainer {
+    background-image: url(../images/hero.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    clear: both;
+    padding-bottom: 150px;
+}
+.solution {
+    height: 162px;
+    width: 322px;
+    display: inline-block;
+    margin: 20px;
+}
+.myRole {
+    margin: 20px;
+}
+.teal {
+    color: #2FB9AE;
+}
+.discovery {
+    height: auto;
+    width: 50%;
+    margin: 20px;
+}
+.redline img{
+    -webkit-transform: scale (0.8);
+}
